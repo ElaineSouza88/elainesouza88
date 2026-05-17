@@ -1,43 +1,39 @@
-# Olá, sou a Elaine
-<i>Blumenau - SC </i> <br>
-Desenvolvedora Web Jr. rumo ao Full Stack 🚀
-Apaixonada por tecnologia e fórmula 1 🏁🏎️
+# Olá, eu sou a Elaine Souza! 👋
 
-## 📚Área de Estudo
-- Estudo de forma autoditada tecnologias relacionadas ao desenvolvimento de aplicações web, participando de irmersões, bootcamps, cursos e lendo documentações relacionadas a essas tecnologias.
+### Business & Requirements Analyst | Logistics Specialist | ADS Student @ UniSociesc
 
-## 💻 Tecnologias
-As principais tecnologias que utilizo durante o aprendizado e nos projetos que desenvolvo são:
+Seja bem-vindo(a) ao meu portfólio técnico! Unindo **12 anos de sólida experiência no setor logístico (especialista em TMS Embarcador)** com a paixão por tecnologia, estou em transição de carreira para a área de **Análise de Requisitos e Engenharia de Software**. 
 
-![Top tecnologias](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ElaineSouza88&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+Atualmente, atuo como Analista de Treinamento e Desenvolvimento de Software na **DATAFRETE**, onde traduzo sistemas complexos de forma didática e estratégica para usuários e clientes.
 
-## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ElaineSouza88&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+---
 
-## Soft Skills
-- Gosto de trabalhar em equipe para aprender e ensinar novas coisas de diferentes setores.
-- Atenciosa aos detalhes e especificações dos projetos de baixa e alta complexidade, sugerindo soluções práticas para melhoria contínua da equipe.
-- Sempre disposta a ajudar pessoas que buscam meu conhecimento e habilidades para resolver alguma questão.
+### 🚀 O que eu faço?
+* **Engenharia de Requisitos:** Transformo dores operacionais e gargalos de negócios em documentações técnicas estruturadas (BRDs, User Stories, Backlog).
+* **Modelagem de Processos:** Desenho fluxos lógicos e árvores de decisão utilizando notação BPMN para garantir eficiência operacional.
+* **Maturidade de Negócio:** Aplico visão de produto (PO/PM) para priorizar entregas que gerem real Retorno sobre Investimento (ROI).
 
-## Hard Skills
-- Desenvolvimento de landingpages utilizando HTML, CSS, JavaScript e WordPress.
-- Criação de layouts responsivos de acordo com as especificações do cliente.
-- Conhecimento em plataformas LMS (Ensino e-learning).
-- Capacidade analítica voltada para parametrização de softwares baseada na operação do cliente.
+---
 
-## Projeto Xodó
-Esse projeto foi desenvolvido durante a imersão Dev da Alura com o Google Gemini.
+### 🛠️ Tecnologias & Ferramentas
+<p id="badges">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/BPMN_/_Bizagi-00A3E0?style=for-the-badge&logo=diagrams.net&logoColor=white" alt="BPMN" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL_/_Databases-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-Fiz um site para consultar os pilotos brasileiros que correram pela categoria de fórmula 1 desde 1950.
+---
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=ElaineSouza88&repo=projeto-ia-gemini&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/ElaineSouza88/projeto-ia-gemini)
+### 📁 Projetos em Destaque
+* 📑 **[Automação Inteligente de Auditoria de Fretes](https://github.com/ElaineSouza/automacao-auditoria-fretes):** Estudo de caso focado em Engenharia de Requisitos para otimização e aprovação automática de CT-es com margens de tolerância e travas de segurança financeiras.
 
-## Quer saber mais?
-Acesse minhas mídias sociais, nelas compartilho assuntos voltados para tecnologia, meus estudos e é claro sobre F1 🖤
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elaine-souza-bb3188a3/) 
+### 📫 Vamos nos conectar?
+* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/)
+* **Localização:** Blumenau - SC 🇧🇷
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ElaineSouza88)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elaine.nany88/)
-
+*"Conectando a lógica da tecnologia à eficiência da logística."*
