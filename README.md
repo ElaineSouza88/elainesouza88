@@ -28,7 +28,7 @@ Atualmente, atuo como Analista de Treinamento e Desenvolvimento de Software na *
 ---
 
 ### 📁 Projetos em Destaque
-* 📑 **[Automação Inteligente de Auditoria de Fretes](https://github.com/ElaineSouza/automacao-auditoria-fretes):** Estudo de caso focado em Engenharia de Requisitos para otimização e aprovação automática de CT-es com margens de tolerância e travas de segurança financeiras.
+* 📑 **[Automação Inteligente de Auditoria de Fretes](https://www.linkedin.com/in/elaine-souza-bb3188a3/details/projects/):** Estudo de caso focado em Engenharia de Requisitos para otimização e aprovação automática de CT-es com margens de tolerância e travas de segurança financeiras.
 
 ---
 
