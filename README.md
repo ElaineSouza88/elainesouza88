@@ -33,7 +33,7 @@ Atualmente, atuo como Analista de Treinamento e Desenvolvimento de Software na *
 ---
 
 ### 📫 Vamos nos conectar?
-* **LinkedIn:** [Acesse meu perfil profissional](https://www.linkedin.com/)
+* **LinkedIn:** [Perfil profissional](https://www.linkedin.com/in/elaine-souza-bb3188a3/)
 * **Localização:** Blumenau - SC 🇧🇷
 
 *"Conectando a lógica da tecnologia à eficiência da logística."*
